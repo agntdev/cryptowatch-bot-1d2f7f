@@ -7,7 +7,7 @@
           {
             "method": "sendMessage",
             "payload": {
-              "text": "Show current prices for watchlist or specific ticker"
+              "text": "Private watchlist storage isn't set up yet. Try again after it is configured."
             }
           }
         ],
