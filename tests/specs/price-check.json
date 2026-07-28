@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Check Prices",
+    "steps": [
+      {
+        "expect": [
+          {
+            "method": "sendMessage",
+            "payload": {
+              "text": "Show current prices for watchlist or specific ticker"
+            }
+          }
+        ],
+        "send": {
+          "callback": "price:check"
+        }
+      }
+    ]
+  }
+]
