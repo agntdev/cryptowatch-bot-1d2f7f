@@ -7,7 +7,7 @@
           {
             "method": "sendMessage",
             "payload": {
-              "text": "Create new price alert rule with natural language input"
+              "text": "Send a rule such as BTC above 100000 or ETH moves 5%."
             }
           }
         ],
